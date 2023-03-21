@@ -1,4 +1,4 @@
-# Staus for Windows
+# Status for Windows
 Automate this process in an exe file
 1. Find the serial port of the LED (this doesn't change on windows if the LED is unplugged)
     - Open terminal and run `mode` to return the serial ports
