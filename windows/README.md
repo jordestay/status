@@ -2,7 +2,7 @@
 Automate this process in an exe file
 1. Find the serial port of the LED (this doesn't change on windows if the LED is unplugged)
     - Open terminal and run `mode` to return the serial ports
-    - Scroll until you see `Status for device COM##:`. This is the USB (RUN ON STARTUP OR HAVE A PORT LISTENER)
+    - Scroll until you see `Status for device COM##:`. This is the USB (TODO: RUN ON STARTUP OR HAVE A PORT LISTENER)
     - Get the port name `COM##`  
     - add it to the command files
 
@@ -13,3 +13,4 @@ Automate this process in an exe file
     - purple-away.bat
 3. TODO: RUN IN TERMINAL
 4. TODO: RUN ON CLICK
+5. TODO: DESKTOP ICON
