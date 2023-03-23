@@ -8,6 +8,7 @@ There are currently 4 status options
 - purple (away)
   
 Future options in development
+- Setting schedules
 - RGB cycle (party)
 - yellow
 - yellow pulsing
