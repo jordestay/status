@@ -8,8 +8,9 @@ There are currently 4 status options
 - red (do not disturb)
 - green (available)
 - blue (in a meeting)
-- purple (away)
-<!-- ![til](./demo.gif) -->
+- purple (away)  
+  
+![til](./demo.gif)
 
 ## Windows Setup
 1. Download and unzip the [Windows zip file](https://github.com/jordestay/status/raw/main/windows/status-light.zip) containing
