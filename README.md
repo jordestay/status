@@ -19,7 +19,7 @@ There are currently 4 status options
     - add it to each of the command files by opening them in Notepad or similar and replacing `##`
 3. Double click any batch file to see the status light change
 ## Mac Setup
-1. Download and unzip the [Windows zip file](https://github.com/jordestay/status/raw/main/mac/status-light.zip) containing
+1. Download and unzip the [Mac zip file](https://github.com/jordestay/status/raw/main/mac/status-light.zip) containing
     - red-dnd.command
     - green-available.command
     - blue-meeting.command
