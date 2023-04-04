@@ -1,10 +1,14 @@
 # Status via fit statUSB
-[Manufacturer Docs](http://fit-pc.com/wiki/index.php/Fit-statUSB)  
+Parts List (not affiliate links)
+- [fit statUSB light](https://www.amazon.com/gp/product/B07CKFLQ5V/ref=ox_sc_act_title_1?smid=A3J2VUK9571N8X&psc=1) | [Manufacturer Docs](http://fit-pc.com/wiki/index.php/Fit-statUSB)  
+- [USB extension cable](https://www.amazon.com/gp/product/B097Q99K1P/ref=ox_sc_act_title_2?smid=A1HTDKRQ0FE20L&psc=1) or similar
+- [Gooseneck USB (optional)](https://www.amazon.com/gp/product/B003PFBB4G/ref=ewc_pr_img_1?smid=A32IO94WFN2NEL&psc=1) or similar
 There are currently 4 status options  
 - red (do not disturb)
 - green (available)
 - blue (in a meeting)
 - purple (away)
+<!-- ![til](./demo.gif) -->
 
 ## Windows Setup
 1. Download and unzip the [Windows zip file](https://github.com/jordestay/status/raw/main/windows/status-light.zip) containing
@@ -40,7 +44,8 @@ There are currently 4 status options
     - Click yes through the following popups
 5. Double click any command file to see the status light change
     - The command does not currently execute silently, a terminal window opens every time a command is clicked. These can be closed at any time.
-
+## Linux Setup
+If you are on Linux, you know what to do... Here is [some documentation](https://www.fit-iot.com/forum/viewtopic.php?f=175&t=6335&p=21219&hilit=linux#p21219) to get started on your DIY journey.
 ## Development
 ### Windows
 - Fetch serial port automatically on startup
