@@ -1,10 +1,10 @@
 # Status via fit statUSB
 [Manufacturer Docs](http://fit-pc.com/wiki/index.php/Fit-statUSB)  
 There are currently 4 status options  
-- ==red== (do not disturb)
-- ==green== (available)
-- ==blue== (in a meeting)
-- ==purple== (away)
+- red (do not disturb)
+- green (available)
+- blue (in a meeting)
+- purple (away)
 
 ## Windows Setup
 1. Download and unzip the windows zip file containing
@@ -28,7 +28,7 @@ There are currently 4 status options
     - Open terminal and run `ls /dev`
     - Scroll until you see `/dev/cu.usbmodem####`
     - Get the ending number `####`
-    - add it to the command files by opening in `nano` or similar code editor
+    - add it to the command files by opening in `nano` or similar code editor and replacing `##`
 3. Give executing access to each command
     - In terminal, `cd` the directory containing the command files
         - `chmod a+x red-dnd.command`
