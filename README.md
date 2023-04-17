@@ -13,7 +13,7 @@ There are currently 4 status options
 ![til](./demo.gif)
 
 ## Windows Setup
-1. Download and unzip the Windows zip file ([win10](https://github.com/jordestay/status/raw/main/windows/status-light.zip) | [win11](https://github.com/jordestay/status/raw/main/windows/status-light-win11.zip) containing
+1. Download and unzip the Windows zip file ([win10](https://github.com/jordestay/status/raw/main/windows/status-light.zip) | [win11](https://github.com/jordestay/status/raw/main/windows/status-light-win11.zip)) containing
     - red-dnd.bat
     - green-available.bat
     - blue-meeting.bat
